@@ -1,0 +1,8 @@
+{
+    "15109150": {
+        "hash": "2219c783e367cb497b6c97c5c2cf3f577e0bef8cf50ea1092496ed9b531519a0",
+        "salt": "ae716f675c345bdb83a68a6bd0da4313",
+        "role": "User",
+        "first_login_required": false
+    }
+}
